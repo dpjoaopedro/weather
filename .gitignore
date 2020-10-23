@@ -1,0 +1,5 @@
+**/database
+**/WeatherAngular/node_modules
+**/WeatherApi/bin
+**/WeatherApi/obj
+.vscode
